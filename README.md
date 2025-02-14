@@ -1,4 +1,4 @@
-# OBS-Scanline-Emulator-Shader
+# OBS-CRT-Emulator-Shader
 A shader for obs-shaderfilter that emulates how a CRT electron gun moves.
 
 Can do both interlaced and progressive scanning.

@@ -4,6 +4,7 @@ A shader for obs-shaderfilter that emulates how a CRT electron gun moves.
 Can do both interlaced and progressive scanning.
 
 Emulates an Apeture Grille with 10pixels per TVL.
+8pixel per TVL version also available. (At 1920 wide that gives you 240TVL)
 
 Each 3rd of the screen vertically has a 10% dim to mimic the support wire found in trinitron displays.
 
